@@ -63,7 +63,7 @@ var data = [
 
 var visualization = d3plus.viz()
     .container("#viz2")
-    .data(data)
+    .data(data2)
     .type("box")
     .id("name")
     .x("year")
